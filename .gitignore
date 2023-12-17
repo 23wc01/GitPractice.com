@@ -1,0 +1,4 @@
+# Will ignore files/folders listed here
+# Ex: ignore all files with .txt extensions
+
+*.txt
